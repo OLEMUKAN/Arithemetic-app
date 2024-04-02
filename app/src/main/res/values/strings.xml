@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Arithmetic App</string>
+    <string name="arithmetic_on_two_numbers">Arithmetic on Two Numbers</string>
+    <string name="arithmetic_of_2_numbers">Arithmetic of 2 numbers</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="num_1">num 1</string>
+    <string name="num2">num2</string>
+</resources>
